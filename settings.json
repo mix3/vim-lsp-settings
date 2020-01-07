@@ -220,6 +220,14 @@
       ]
     }
   ],
+  "perl": [
+    {
+      "command": "plls",
+      "requires": [
+        "perl"
+      ]
+    }
+  ],
   "python": [
     {
       "command": "pyls",
