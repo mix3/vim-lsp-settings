@@ -680,6 +680,14 @@
       ]
     },
     {
+      "command": "biome",
+      "url": "https://github.com/biomejs/biome",
+      "description": "Biome is a performant toolchain for web projects, it aims to provide developer tools to maintain the health of said projects.",
+      "requires": [
+        "npm"
+      ]
+    },
+    {
       "command": "deno",
       "url": "https://deno.land/",
       "description": "A modern runtime for JavaScript and TypeScript.",
@@ -757,6 +765,14 @@
       ]
     },
     {
+      "command": "biome",
+      "url": "https://github.com/biomejs/biome",
+      "description": "Biome is a performant toolchain for web projects, it aims to provide developer tools to maintain the health of said projects.",
+      "requires": [
+        "npm"
+      ]
+    },
+    {
       "command": "deno",
       "url": "https://deno.land/",
       "description": "A modern runtime for JavaScript and TypeScript.",
@@ -813,6 +829,14 @@
       "command": "rome",
       "url": "https://github.com/rome/tools",
       "description": "The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.",
+      "requires": [
+        "npm"
+      ]
+    },
+    {
+      "command": "biome",
+      "url": "https://github.com/biomejs/biome",
+      "description": "Biome is a performant toolchain for web projects, it aims to provide developer tools to maintain the health of said projects.",
       "requires": [
         "npm"
       ]
@@ -1677,6 +1701,17 @@
       ]
     },
     {
+      "command": "biome",
+      "url": "https://github.com/biomejs/biome",
+      "description": "Biome is a performant toolchain for web projects, it aims to provide developer tools to maintain the health of said projects.",
+      "requires": [
+        "npm"
+      ],
+      "root_uri_patterns": [
+        "biome.json"
+      ]
+    },
+    {
       "command": "deno",
       "url": "https://deno.land/",
       "description": "A modern runtime for JavaScript and TypeScript.",
@@ -1723,6 +1758,14 @@
       "command": "rome",
       "url": "https://github.com/rome/tools",
       "description": "The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.",
+      "requires": [
+        "npm"
+      ]
+    },
+    {
+      "command": "biome",
+      "url": "https://github.com/biomejs/biome",
+      "description": "Biome is a performant toolchain for web projects, it aims to provide developer tools to maintain the health of said projects.",
       "requires": [
         "npm"
       ]
